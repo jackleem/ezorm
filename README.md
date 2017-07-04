@@ -1,2 +1,3 @@
-# ezorm
-A demo for orm for JAVA, with reflect.
+# EZ ORM
+Ez object rational mapping tools for JAVA.
+Demo use MySQL database. 
